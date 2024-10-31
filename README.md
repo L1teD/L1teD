@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Vue, Tailwind CSS**
 
-- 📫 How to reach me **l1teisnt@gmail.com**
+- 📫 How to reach me **support@l1te.pw**
 
 - ⚡ Fun fact **Not funny enough**
 
