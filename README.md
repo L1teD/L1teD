@@ -17,6 +17,13 @@
 </a>
 
 ### Languages and Tools:
+![Next.JS](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-black?style=for-the-badge&logo=shadcnui)
+![Prisma](https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=prisma)
+![Tailwind CSS](https://img.shields.io/badge/tailwind%20css-38B2AC?style=for-the-badge&logo=tailwind-css)
+![Three.JS](https://img.shields.io/badge/three.js-black?style=for-the-badge&logo=threedotjs)
+![React](https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react)
+![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker)
 ![Deno](https://img.shields.io/badge/deno-grey?style=for-the-badge&logo=deno)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![EJS](https://img.shields.io/badge/ejs-B4CA65?style=for-the-badge&logo=ejs&logoColor=black)
