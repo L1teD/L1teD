@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [cs2-WeaponPaints-website](https://github.com/L1teD/cs2-WeaponPaints-website)
 
-- 🌱 I’m currently learning **Vue, Tailwind CSS**
+- 🌱 I’m currently learning **Game development**
 
 - 📫 How to reach me **support@l1te.pw**
 
