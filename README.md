@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Game development**
 
-- 📫 How to reach me **support@l1te.pw**
+- 📫 How to reach me **l1teisnt@gmail.com**
 
 - ⚡ Fun fact **Not funny enough**
 
