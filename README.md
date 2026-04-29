@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm L1te</h1>
-<h3 align="center">A Node.JS Fullstack developer</h3>
+<h3 align="center">A Next.js developer</h3>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/851140150452289566?idleMessage=Figuring%20out%20why%206%20%2B%209%20equals%2069)](https://discord.com/users/851140150452289566)
 
